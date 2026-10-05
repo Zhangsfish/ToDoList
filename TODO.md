@@ -3,6 +3,7 @@
 ## 要做
 
 - [ ] 做 Windows Quick Map：用全局快捷键唤起全屏交互世界地图，Hover 国家显示中英文名/首都，点击高亮邻国与主要城市，Esc 退出，并支持选中文本或剪贴板地名自动定位。
+- [ ] 搭一套长期稳定使用 ChatGPT 的低成本固定出口：目标 ≤100 元/月，优先低共享/独享、干净的 consumer ISP/住宅 IP；先测试 Decodo Dedicated ISP（$9.99/3 IP）/IPRoyal 等，买后先查 ASN、IP reputation、proxy/hosting 标记并固定使用最干净的单一 IP；若商用 ISP 方案不理想，再考虑真实家庭宽带 + Tailscale/WireGuard。
 
 ## 要学
 
