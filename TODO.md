@@ -4,6 +4,7 @@
 
 - [ ] 做 Windows Quick Map：用全局快捷键唤起全屏交互世界地图，Hover 国家显示中英文名/首都，点击高亮邻国与主要城市，Esc 退出，并支持选中文本或剪贴板地名自动定位。
 - [ ] 搭一套长期稳定使用 ChatGPT 的低成本固定出口：目标 ≤100 元/月，优先低共享/独享、干净的 consumer ISP/住宅 IP；先测试 Decodo Dedicated ISP（$9.99/3 IP）/IPRoyal 等，买后先查 ASN、IP reputation、proxy/hosting 标记并固定使用最干净的单一 IP；若商用 ISP 方案不理想，再考虑真实家庭宽带 + Tailscale/WireGuard。
+- [ ] 做一个“高质量 KOL 原始思想库”MVP：把曾鸣、付鹏、Karpathy、Buffett、段永平等值得长期调用的公开长访谈/讲座整理成带来源、日期、时间戳的 Markdown，GitHub 直接托管、免费开放，人可读、AI 可直接调用；先验证跨 KOL 精选语料是否比全网搜索显著提高回答质量，并先处理好版权边界。
 
 ## 要学
 
@@ -17,4 +18,3 @@
 - [ ] 搞懂日本“重新活过来”：工资、通胀、企业治理、日元、财政与央行正常化分别贡献了什么，哪些只是周期反弹。
 
 ## Done
-
